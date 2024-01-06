@@ -1,8 +1,0 @@
-{
-  "useSmtp": true,
-  "host": "asmtp.mail.hostpoint.ch",
-  "port": 465,
-  "username": "kontakt@banking4you.ch",
-  "password": "KKb%r*nr335566",
-  "recipientEmail": "kontakt@banking4you.ch"
-}
